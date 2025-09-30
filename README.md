@@ -29,8 +29,8 @@ The project defines a lightweight `Contact` struct with the following fields:
 ### 1. Clone and Build
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/KibuuleNoah/vcardjson.git
+cd vcardjson
 go build
 ```
 
